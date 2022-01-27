@@ -1,0 +1,5 @@
+mongodb+srv://sparkar:<password>@cluster0.zfs2f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+    pmIMkPkEWr1EFweO
+
+    mongodb://sparkar:<password>@cluster0-shard-00-00.zfs2f.mongodb.net:27017,cluster0-shard-00-01.zfs2f.mongodb.net:27017,cluster0-shard-00-02.zfs2f.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-10gu1r-shard-0&authSource=admin&retryWrites=true&w=majority
